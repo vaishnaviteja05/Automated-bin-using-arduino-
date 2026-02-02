@@ -48,7 +48,7 @@ The **Automated Bin** is a smart, hands-free waste disposal system that opens it
 ---
 
 ## Circuit Diagram
-![Circuit Connections](https://github.com/vaishnaviteja05/Automated-bin-using-arduino-/blob/main/Circuit Connections.png?raw=true)
+![Circuit Connections](https://github.com/vaishnaviteja05/Automated-bin-using-arduino-/blob/main/CircuitConnections.png?raw=true)
 
 ---
 
