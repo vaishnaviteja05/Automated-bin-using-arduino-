@@ -64,5 +64,3 @@ The **Automated Bin** is a smart, hands-free waste disposal system that opens it
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
-
-Do you want me to do that?
